@@ -1,0 +1,9 @@
+{
+  "name": "Распевка — вокал и дикция",
+  "short_name": "Распевка",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7C5CFC",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
